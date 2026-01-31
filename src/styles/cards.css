@@ -1,0 +1,17 @@
+.kpi-card {
+  background: linear-gradient(135deg, #1e293b, #0f172a);
+  color: white;
+  padding: 18px;
+  border-radius: 12px;
+}
+
+.kpi-title {
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+.kpi-value {
+  font-size: 26px;
+  font-weight: 600;
+  margin-top: 6px;
+}
